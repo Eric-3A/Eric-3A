@@ -1,6 +1,6 @@
 #### Hey! there 👋
-####technical ability
-![](https://img.shields.io/badge/Linux-brightgreen)
+#### technical ability
+![](https://img.shields.io/badge/Linux-brightgreen) ![](https://img.shields.io/badge/Windows-brightgreen) ![](https://img.shields.io/badge/Mysql-brightgreen) ![](https://img.shields.io/badge/Oracle-brightgreen) ![](https://img.shields.io/badge/Redis-brightgreen)
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens&show_icons=true&theme=radical)
 <!--
 **Eric-3A/Eric-3A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
